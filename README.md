@@ -39,9 +39,9 @@ SOC simulation & cybersecurity awareness platform
 
 ## Pursuing
 
-CompTIA Security+ · AZ-900
+CompTIA Security+ 
 
 ---
 
-Newark / Bayonne, NJ  
+NJ  
 alexbragg1990@gmail.com
