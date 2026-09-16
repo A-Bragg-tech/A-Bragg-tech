@@ -7,7 +7,7 @@ intelligence analysis, and applied technology.
 
 ## What I Build
 
-I built tools that close the gap between knowing 
+I build tools that close the gap between knowing 
 security concepts and actually practicing them.
 
 Systems that make people 
