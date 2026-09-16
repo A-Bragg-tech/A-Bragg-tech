@@ -14,7 +14,7 @@ Systems that make people
 more capable, not just more informed.
 
 Canary Security is the current proof of that.  
-Puts learners inside an operational environment 
+- Puts learners inside an operational environment 
 instead of a quiz.
 
 
