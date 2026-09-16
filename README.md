@@ -1,6 +1,6 @@
 # Alexander M. Bragg
 
-Security-minded builder focused on cybersecurity, 
+Open-minded builder focused on cybersecurity, 
 intelligence analysis, and applied technology.
 
 ---
