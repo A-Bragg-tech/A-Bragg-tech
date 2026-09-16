@@ -7,7 +7,7 @@ intelligence analysis, and applied technology.
 
 ## What I Build
 
-I build tools that close the gap between knowing 
+I built tools that close the gap between knowing 
 security concepts and actually practicing them.
 
 Canary Security is the current proof of that — 
