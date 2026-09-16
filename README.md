@@ -13,7 +13,7 @@ and actually practicing them.
 Systems that make people 
 more capable, not just more informed.
 
-[Canary Security](canary-security.vercel.app) is the current proof of that.  
+[Canary Security](https://canary-security.vercel.app) is the current proof of that.  
 - Puts learners inside an operational environment 
 instead of a quiz.
 
@@ -46,7 +46,7 @@ decisions change the environment downstream.
 The design goal was simple: make cybersecurity
 awareness something people practice, not memorize.
 
-Live demo in bio.
+[▶ Launch Live Demo](https://canary-security.vercel.app)
 
 ---
 
