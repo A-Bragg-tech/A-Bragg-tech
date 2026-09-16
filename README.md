@@ -13,7 +13,7 @@ and actually practicing them.
 Systems that make people 
 more capable, not just more informed.
 
-[Canary Security](https://github.com/A-Bragg-tech/Canary-Security) is the current proof of that.  
+[Canary Security](canary-security.vercel.app) is the current proof of that.  
 - Puts learners inside an operational environment 
 instead of a quiz.
 
